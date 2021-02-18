@@ -1,4 +1,12 @@
 { "compressionlevel":-1,
+ "editorsettings":
+    {
+     "export":
+        {
+         "format":"json",
+         "target":"WG.json"
+        }
+    },
  "height":60,
  "infinite":false,
  "layers":[
@@ -68,7 +76,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                  "value":"https:\/\/play.workadventu.re\/_\/global\/tegesen.github.io\/Sophie\/WG.json"
+                 "value":"https:\/\/die-sophie.studio"
                 }],
          "type":"tilelayer",
          "visible":true,
