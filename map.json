@@ -68,7 +68,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/_\/global\/tegesen.github.io\/Sophie\/map.json"
+                  "value":"http:\/\/http://die-sophie.studio"
                 }],
          "type":"tilelayer",
          "visible":true,
